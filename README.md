@@ -7,7 +7,7 @@ Data Methods
 
 elelogin
 
-this method aloud to conect with plataform is tehe principal state the connection to the plataform
+this method aloud to connect with plataform is tehe principal state the connection to the plataform
 
 parameters
 
@@ -29,3 +29,105 @@ Type connection aloud.
 GET: only for derteminate time (2 Moths)
 POST
 
+RESPONSE FORMAT
+
+XML
+HTML
+JSON
+
+eleprofile
+
+this method aloud to get user profile data
+
+parameters
+
+user: String Format
+
+pass: String Format
+
+user_id: INT(16)
+
+return Value 
+ SUCCESS
+user_id: String format
+
+FAILED
+
+string with value "failed"
+
+
+Type connection aloud.
+
+GET: only for derteminate time (2 Moths)
+POST
+
+RESPONSE FORMAT
+
+XML
+HTML
+JSON
+
+eleunit
+
+this method aloud to get unit data
+
+parameters
+
+user: String Format
+
+pass: String Format
+
+user_id: INT(16)
+
+return Value 
+ SUCCESS
+user_id: String format
+
+FAILED
+
+string with value "failed"
+
+
+Type connection aloud.
+
+GET: only for derteminate time (2 Moths)
+POST
+
+RESPONSE FORMAT
+
+XML
+HTML
+JSON
+
+
+elelibrary
+
+this method aloud to get library data
+
+parameters
+
+user: String Format
+
+pass: String Format
+
+user_id: INT(16)
+
+return Value 
+ SUCCESS
+user_id: String format
+
+FAILED
+
+string with value "failed"
+
+
+Type connection aloud.
+
+GET: only for derteminate time (2 Moths)
+POST
+
+RESPONSE FORMAT
+
+XML
+HTML
+JSON

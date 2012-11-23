@@ -1,57 +1,60 @@
 API
 ===
 
-This is an official API of the ELESAPIENS PLATAFORM which allow users to connect and get the contents
+This is THE official API of the ELESAPIENS PLATAFORM which allow users to connect and get the contents by **REST**
 
-Data Methods
+# Data Methods
 
-elelogin
+##elelogin
 
 this method aloud to connect with plataform is tehe principal state the connection to the plataform
 
-parameters
+**PARAMETERS**
 
-user: String Format
+**user**: String Format
 
-pass: String Format
+**pass**: String Format
 
-return Value 
- SUCCESS
-user_id: String format
+**RETURN VALUE**
+* **SUCCESS**
 
-FAILED
+**user_id**: String format
+
+* **FAILED**
 
 string with value "failed"
 
 
-Type connection aloud.
+**CONNECTION TYPE**
 
-GET: only for derteminate time (2 Moths)
-POST
+**GET**: only for derteminate time (2 Moths)
 
-RESPONSE FORMAT
+**POST**
+
+**RESPONSE FORMAT**
 
 XML
 HTML
 JSON
 
-eleprofile
+##eleprofile
 
 this method aloud to get user profile data
 
-parameters
+**PARAMETERS**
 
-user: String Format
+**user**: String Format
 
-pass: String Format
+**pass**: String Format
 
-user_id: INT(16)
+**user_id**: INT(16)
 
-return Value 
- SUCCESS
-user_id: String format
+**RETURN VALUE**
+* **SUCCESS**
 
-FAILED
+**user_id**: String format
+
+* **FAILED**
 
 string with value "failed"
 
@@ -61,29 +64,30 @@ Type connection aloud.
 GET: only for derteminate time (2 Moths)
 POST
 
-RESPONSE FORMAT
+**RESPONSE FORMAT**
 
 XML
 HTML
 JSON
 
-eleunit
+##eleunit
 
 this method aloud to get unit data
 
-parameters
+**PARAMETERS**
 
-user: String Format
+**user**: String Format
 
-pass: String Format
+**pass**: String Format
 
-user_id: INT(16)
+**user_id**: INT(16)
 
-return Value 
- SUCCESS
-user_id: String format
+**RETURN VALUE**
+* **SUCCESS**
 
-FAILED
+**user_id**: String format
+
+* **FAILED**
 
 string with value "failed"
 
@@ -93,30 +97,64 @@ Type connection aloud.
 GET: only for derteminate time (2 Moths)
 POST
 
-RESPONSE FORMAT
+**RESPONSE FORMAT**
 
 XML
 HTML
 JSON
 
 
-elelibrary
+##elelibrary
 
 this method aloud to get library data
 
-parameters
+**PARAMETERS**
 
-user: String Format
+**user**: String Format
 
-pass: String Format
+**pass**: String Format
 
-user_id: INT(16)
+**user_id**: INT(16)
 
-return Value 
- SUCCESS
-user_id: String format
+**RETURN VALUE**
+* **SUCCESS**
 
-FAILED
+**user_id**: String format
+
+* **FAILED**
+
+string with value "failed"
+
+
+Type connection aloud.
+
+**GET**: only for derteminate time (2 Moths)
+**POST**
+
+**RESPONSE FORMAT**
+
+XML
+HTML
+JSON
+
+
+# Content Methods
+
+##eleresource
+
+this method aloud to connect with plataform is tehe principal state the connection to the plataform
+
+**PARAMETERS**
+
+**user**: String Format
+
+**pass**: String Format
+
+**RETURN VALUE**
+* **SUCCESS**
+**user_id**: String format
+
+* **FAILED**
 
 string with value "failed"
 
@@ -126,8 +164,74 @@ Type connection aloud.
 GET: only for derteminate time (2 Moths)
 POST
 
-RESPONSE FORMAT
+**RESPONSE FORMAT**
 
 XML
 HTML
 JSON
+
+##eleunitfront
+
+this method aloud to get user profile data
+
+**PARAMETERS**
+
+**user**: String Format
+
+**pass**: String Format
+
+**user_id**: INT(16)
+
+**RETURN VALUE**
+* **SUCCESS**
+**user_id**: String format
+
+* **FAILED**
+
+string with value "failed"
+
+
+Type connection aloud.
+
+GET: only for derteminate time (2 Moths)
+POST
+
+**RESPONSE FORMAT**
+
+XML
+HTML
+JSON
+
+##elelibraryfront
+
+this method aloud to get unit data
+
+**PARAMETERS**
+
+**user**: String Format
+
+**pass**: String Format
+
+**user_id**: INT(16)
+
+**RETURN VALUE**
+* **SUCCESS**
+**user_id**: String format
+
+* **FAILED**
+
+string with value "failed"
+
+
+Type connection aloud.
+
+GET: only for derteminate time (2 Moths)
+POST
+
+**RESPONSE FORMAT**
+
+XML
+HTML
+JSON
+
+

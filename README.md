@@ -11,31 +11,31 @@ this method aloud to connect with plataform is tehe principal state the connecti
 
 **PARAMETERS**
 
-**user**: String Format
+    user: String Format
 
-**pass**: String Format
+    pass: String Format
 
 **RETURN VALUE**
 * **SUCCESS**
 
-**user_id**: String format
+      ``user_id: String format``
 
 * **FAILED**
 
-string with value "failed"
+      string with value "failed"
 
 
 **CONNECTION TYPE**
 
-**GET**: only for derteminate time (2 Moths)
+    GET: only for derteminate time (2 Moths)
 
-**POST**
+    POST
 
 **RESPONSE FORMAT**
 
-XML
-HTML
-JSON
+    XML
+    HTML
+    JSON
 
 ##eleprofile
 
@@ -43,32 +43,34 @@ this method aloud to get user profile data
 
 **PARAMETERS**
 
-**user**: String Format
+    user: String Format
 
-**pass**: String Format
+    pass: String Format
 
-**user_id**: INT(16)
+    user_id: INT(16)
 
 **RETURN VALUE**
 * **SUCCESS**
 
-**user_id**: String format
+    user_id: String format
 
 * **FAILED**
 
-string with value "failed"
+    string with value "failed"
 
 
-Type connection aloud.
+**CONNECTION TYPE**
 
-GET: only for derteminate time (2 Moths)
-POST
+    GET: only for derteminate time (2 Moths)
+
+    POST
+
 
 **RESPONSE FORMAT**
 
-XML
-HTML
-JSON
+    XML
+    HTML
+    JSON
 
 ##eleunit
 
@@ -76,32 +78,33 @@ this method aloud to get unit data
 
 **PARAMETERS**
 
-**user**: String Format
+    user: String Format
 
-**pass**: String Format
+    pass: String Format
 
-**user_id**: INT(16)
+    user_id: INT(16)
 
 **RETURN VALUE**
 * **SUCCESS**
 
-**user_id**: String format
+    user_id: String format
 
 * **FAILED**
 
-string with value "failed"
+    string with value "failed"
 
 
-Type connection aloud.
+**CONNECTION TYPE**
 
-GET: only for derteminate time (2 Moths)
-POST
+    GET: only for derteminate time (2 Moths)
+
+    POST
 
 **RESPONSE FORMAT**
 
-XML
-HTML
-JSON
+    XML
+    HTML
+    JSON
 
 
 ##elelibrary
@@ -110,32 +113,33 @@ this method aloud to get library data
 
 **PARAMETERS**
 
-**user**: String Format
+    user: String Format
 
-**pass**: String Format
+    pass: String Format
 
-**user_id**: INT(16)
+    user_id: INT(16)
 
 **RETURN VALUE**
 * **SUCCESS**
 
-**user_id**: String format
+    user_id: String format
 
 * **FAILED**
 
-string with value "failed"
+    string with value "failed"
 
 
-Type connection aloud.
+**CONNECTION TYPE**
 
-**GET**: only for derteminate time (2 Moths)
-**POST**
+    GET: only for derteminate time (2 Moths)
+
+    POST
 
 **RESPONSE FORMAT**
 
-XML
-HTML
-JSON
+    XML
+    HTML
+    JSON
 
 
 # Content Methods
@@ -146,29 +150,31 @@ this method aloud to connect with plataform is tehe principal state the connecti
 
 **PARAMETERS**
 
-**user**: String Format
+    user: String Format
 
-**pass**: String Format
+    pass: String Format
 
 **RETURN VALUE**
 * **SUCCESS**
-**user_id**: String format
+      
+    user_id: String format
 
 * **FAILED**
 
-string with value "failed"
+    string with value "failed"
 
 
-Type connection aloud.
+**CONNECTION TYPE**
 
-GET: only for derteminate time (2 Moths)
-POST
+    GET: only for derteminate time (2 Moths)
+
+    POST  
 
 **RESPONSE FORMAT**
 
-XML
-HTML
-JSON
+    XML
+    HTML
+    JSON
 
 ##eleunitfront
 
@@ -176,31 +182,32 @@ this method aloud to get user profile data
 
 **PARAMETERS**
 
-**user**: String Format
+    user: String Format
 
-**pass**: String Format
+    pass: String Format
 
-**user_id**: INT(16)
+    user_id: INT(16)
 
 **RETURN VALUE**
 * **SUCCESS**
-**user_id**: String format
+      
+    user_id: String format
 
 * **FAILED**
 
-string with value "failed"
+    string with value "failed"
 
 
-Type connection aloud.
+**CONNECTION TYPE**
 
-GET: only for derteminate time (2 Moths)
-POST
+    GET: only for derteminate time (2 Moths)
+    POST
 
 **RESPONSE FORMAT**
 
-XML
-HTML
-JSON
+    XML
+    HTML
+    JSON
 
 ##elelibraryfront
 
@@ -208,30 +215,31 @@ this method aloud to get unit data
 
 **PARAMETERS**
 
-**user**: String Format
+    user: String Format
 
-**pass**: String Format
+    pass: String Format
 
-**user_id**: INT(16)
+    user_id: INT(16)
 
 **RETURN VALUE**
-* **SUCCESS**
-**user_id**: String format
+    * **SUCCESS**
+        **user_id**: String format
 
-* **FAILED**
+    * **FAILED**
 
-string with value "failed"
+        string with value "failed"
 
 
-Type connection aloud.
+**CONNECTION TYPE**
 
-GET: only for derteminate time (2 Moths)
-POST
+    GET: only for derteminate time (2 Moths)
+
+    POST
 
 **RESPONSE FORMAT**
 
-XML
-HTML
-JSON
+    XML
+    HTML
+    JSON
 
 

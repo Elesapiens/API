@@ -2,8 +2,11 @@ API
 ===
 
 This is THE official API of the ELESAPIENS PLATAFORM which allow users to connect and get the contents by **REST**
-
+this api has 2 brances **DATA METHODS** and **CONTENT METHODS**
 # Data Methods
+
+
+from this methods you can get data wich compose our resources to create your own front
 
 ##elelogin
 
@@ -144,6 +147,8 @@ this method aloud to get library data
 
 # Content Methods
 
+from this methods you can get access to our contents and we will provide our front
+
 ##eleresource
 
 this method aloud to connect with plataform is tehe principal state the connection to the plataform
@@ -157,7 +162,7 @@ this method aloud to connect with plataform is tehe principal state the connecti
 **RETURN VALUE**
 * **SUCCESS**
       
-    user_id: String format
+    HTML
 
 * **FAILED**
 
@@ -191,7 +196,7 @@ this method aloud to get user profile data
 **RETURN VALUE**
 * **SUCCESS**
       
-    user_id: String format
+    HTML
 
 * **FAILED**
 
@@ -223,7 +228,7 @@ this method aloud to get unit data
 
 **RETURN VALUE**
     * **SUCCESS**
-        **user_id**: String format
+        HTML
 
     * **FAILED**
 

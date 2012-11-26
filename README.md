@@ -155,7 +155,7 @@ this method aloud to connect with plataform is tehe principal state the connecti
 
 **URL**
 
-    http://www.elesapiens.com:8080/eleresource/eleresource?user=xxxx&pass=xxxx&user_id=1
+    http://www.elesapiens.com:8080/eleresource/eleresource
     
 **EXAMPLE**
     GET

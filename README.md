@@ -190,9 +190,9 @@ this method aloud to connect with plataform is tehe principal state the connecti
 
 **RESPONSE FORMAT**
 
-    XML
+    
     HTML
-    JSON
+    
 
 ##eleunitfront
 
@@ -232,9 +232,9 @@ this method aloud to get user profile data
 
 **RESPONSE FORMAT**
 
-    XML
+    
     HTML
-    JSON
+    
 
 ##elelibraryfront
 
@@ -273,8 +273,8 @@ this method aloud to get unit data
 
 **RESPONSE FORMAT**
 
-    XML
+    
     HTML
-    JSON
+    
 
 

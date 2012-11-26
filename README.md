@@ -155,7 +155,7 @@ this method aloud to connect with plataform is tehe principal state the connecti
 
 **URL**
 
-    https://www.elesapiens.com:8080/eleresource/eleresource
+    http://www.elesapiens.com:8080/eleresource/eleresource
 
    
 
@@ -195,7 +195,7 @@ this method aloud to get user profile data
 
 **URL**
 
-    https://www.elesapiens.com:8080/eleunitfront/eleunitfront
+    http://www.elesapiens.com:8080/eleunitfront/eleunitfront
 
 **PARAMETERS**
 
@@ -231,7 +231,7 @@ this method aloud to get user profile data
 this method aloud to get unit data
 **URL**
 
-    https://www.elesapiens.com:8080/elelibraryfront/elelibraryfront
+    http://www.elesapiens.com:8080/elelibraryfront/elelibraryfront
 
 **PARAMETERS**
 

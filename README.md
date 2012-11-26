@@ -2,7 +2,7 @@ API
 ===
 
 This is THE official API of the ELESAPIENS PLATAFORM which allow users to connect and get the contents by **REST**
-this api has 2 brances **DATA METHODS** and **CONTENT METHODS** (created by raphadareangel)
+this api has 2 brances **DATA METHODS** and **CONTENT METHODS** (created by [Raphadareangel](https://github.com/raphadareangel) [website](https://www.raphadareangel))
 # Data Methods
 
 

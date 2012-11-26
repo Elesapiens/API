@@ -153,11 +153,19 @@ from this methods you can get access to our contents and we will provide our fro
 
 this method aloud to connect with plataform is tehe principal state the connection to the plataform
 
+**URL**
+
+    https://www.elesapiens.com:8080/eleresource/eleresource
+
+   
+
 **PARAMETERS**
 
     user: String Format
 
     pass: String Format
+    
+    id_resource: String Format
 
 **RETURN VALUE**
 * **SUCCESS**
@@ -185,13 +193,17 @@ this method aloud to connect with plataform is tehe principal state the connecti
 
 this method aloud to get user profile data
 
+**URL**
+
+    https://www.elesapiens.com:8080/eleunitfront/eleunitfront
+
 **PARAMETERS**
 
     user: String Format
 
     pass: String Format
 
-    user_id: INT(16)
+    unit_id: INT(16)
 
 **RETURN VALUE**
 * **SUCCESS**
@@ -217,6 +229,9 @@ this method aloud to get user profile data
 ##elelibraryfront
 
 this method aloud to get unit data
+**URL**
+
+    https://www.elesapiens.com:8080/elelibraryfront/elelibraryfront
 
 **PARAMETERS**
 

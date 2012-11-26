@@ -166,7 +166,7 @@ this method aloud to connect with plataform is tehe principal state the connecti
 
 * **FAILED**
 
-    string with value "failed"
+    HTML ERROR
 
 
 **CONNECTION TYPE**
@@ -200,7 +200,7 @@ this method aloud to get user profile data
 
 * **FAILED**
 
-    string with value "failed"
+    HTML ERROR
 
 
 **CONNECTION TYPE**
@@ -232,7 +232,7 @@ this method aloud to get unit data
 
     * **FAILED**
 
-        string with value "failed"
+        HTML ERROR
 
 
 **CONNECTION TYPE**

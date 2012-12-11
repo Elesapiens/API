@@ -160,7 +160,7 @@ this method aloud to connect with plataform is tehe principal state the connecti
 **EXAMPLE**
     GET
     
-    http://www.elesapiens.com:8080/eleresource/eleresource?user=xxxx&pass=xxxx&user_id=1
+    http://www.elesapiens.com:8080/eleresource/eleresource?user=xxxx&pass=xxxx&resource_id=1
 
    
 

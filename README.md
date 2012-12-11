@@ -170,7 +170,7 @@ this method aloud to connect with plataform is tehe principal state the connecti
 
     pass: String Format
     
-    id_resource: String Format
+    resource_id: INT(16) Format
 
 **RETURN VALUE**
 * **SUCCESS**
